@@ -1,2 +1,1 @@
-# ucheba
-cho pechatat?
+# studies
