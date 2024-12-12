@@ -1,6 +1,6 @@
 
 
-
+#Агафонов Х-71 уровень сложный
 #number 1
 #n2
 
@@ -14,7 +14,7 @@ while not flag:
         flag = True
 for i in range (1,11):
     print(number * i)
-
+#n3
 import math
 n = int(input())
 k = int(input())
