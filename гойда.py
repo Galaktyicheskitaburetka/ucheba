@@ -12,6 +12,4 @@ print(df_excel.sample(4))
 # Посмотреть информацию о таблице
 print(df_excel.info())
 
-
-print("GOYDAA")
 print(df_excel.iloc[3])
